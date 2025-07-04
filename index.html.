@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daftar Produk</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif texted;
+      text-align: center;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 20px;
+    }
+    h1 {
+      color: #333;
+    }
+    .button {
+      display: block;
+      margin: 10px auto;
+      padding: 15px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      width: 200px;
+      font-size: 16px;
+    }
+    .button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <h1>Toko Kami</h1>
+  <a href="https://vt.tokopedia.com/t/ZSBkxmNFb/" class="button">Beli Produk A</a>
+  <a href="https://vt.tokopedia.com/t/ZSBkxP39P/" class="button">Beli Produk B</a>
+  <a href="https://www.tiktok.com/@mikasa.ackerm?_t=ZS-8xkOuQoDSCn&_r=1" class="button">Hubungi Kami</a>
+</body>
+</html>
